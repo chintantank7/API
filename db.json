@@ -1,6 +1,9 @@
 {
   "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+    { "id": 1, "title": "QA Testing", "city": "Ahmedabad", "author": "Chintan" }, 
+    { "id": 2, "title": "QA Testing", "city": "Ahmedabad", "author": "Chintan" }, 
+    { "id": 3, "title": "QA Testing", "city": "Ahmedabad", "author": "Chintan" },
+    { "id": 4, "title": "Dev", "city": "Mumbai", "author": "abc" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
